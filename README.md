@@ -50,5 +50,5 @@ The goal of this project is to make a identification cum classification model us
 * Hence, from my side, this is the best model to be deployed using this dataset, to identify the Alpaca images by the user given input.
 *****************************************
 ## Author
-Code Contributed by, Abhishek Sharma, 2021 @abhisheks008 #LGMSOC21
+Code Contributed by, Shetty Meghana, 2024
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
